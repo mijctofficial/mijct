@@ -54277,7 +54277,7 @@ fieldset[disabled] .sidebar.sidebar-skin-white-brown .btn-default.active {
 .owl-dots .owl-dot {
     display: inline-block;
     zoom: 1;
-    *display: inline
+    display: inline
 }
 
 .owl-dots .owl-dot span {
@@ -54578,7 +54578,7 @@ fieldset[disabled] .owl-preview .owl-controls .owl-nav>div {
 .owl-theme .owl-controls .owl-page {
     display: inline-block;
     zoom: 1;
-    *display: inline
+    display: inline
 }
 
 .owl-theme .owl-controls .owl-page span {
@@ -55425,7 +55425,7 @@ a .fa-link {
     border-top: 12px solid #e9eaee;
     border-top-color: #e9eaee;
     border-top-color: #e9eaee;
-    background: #363839;
+    background: #202A4D;
     background-color: #363839;
     background-color: #363839;
     padding: 43px 10px 40px;

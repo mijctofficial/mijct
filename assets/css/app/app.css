@@ -55720,4 +55720,14 @@ a .fa-link {
     .sidebar.sidebar-skin-dark {
         display: block !important;
     }
+    .normal_logo {
+    width: 600px; /* Adjust this to match the PC version */
+    max-width: 100%; /* Ensures it doesn’t overflow on smaller screens */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+.avada-row {
+    height: 150px;
+}
 }
